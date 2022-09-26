@@ -1,0 +1,53 @@
+body {
+    font-size: 16px;
+    background-color: rgb(36, 36, 48);
+    color: wheat;
+    margin: 0 ;    
+
+}
+
+
+
+.container-fluid {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+    margin:-10px auto;
+   
+    
+       
+}
+
+h1 {
+     color: wheat;
+     padding-left: 7px;
+
+}
+
+.navbar-toggler {
+    color : yellow;
+}
+
+.menu {
+    text-align: center;
+    padding-top:4px;
+    margin-top: 15px;
+    margin-bottom: 28px;
+}
+
+
+#menu {
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 4px;
+    background-color:grey;
+    margin-right: 20px;
+    margin-left: 20px;
+    color:black; 
+    overflow-y:scroll;
+}
+
+
+
+    
+    
